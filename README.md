@@ -42,12 +42,6 @@ sudo certbot certonly --standalone -d yourdomain.com
 
 docker compose restart nginx
 
-⚙️ Comandos útiles
-
-Ver logs:
-
-docker compose logs -f
-
 Parar contenedores:
 
 docker compose down
@@ -56,15 +50,3 @@ Reconstruir contenedores:
 
 docker compose up -d --build
 
-✅ Ahora tienes todos los bloques (1 al 5) entregados. Solo organiza las carpetas, empaquétalas si quieres:
-
-zip -r worktime-tracker.zip project-root/
-
-¡Y listo para producción!
-
-Si quieres, puedo prepararte también un script de instalación automatizada. 🚀
-
-=======
-# time_tracker
-time checking work tool
->>>>>>> 4ac7ac5d12cf2ded2c0400c37b07b36793964ec1
