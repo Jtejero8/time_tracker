@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-📦 Bloque 5: README completo con instrucciones
-
-Aquí tienes el README final para levantar todo el proyecto paso a paso.
-
 WorkTime Tracker
 
 Sistema web dockerizado para registrar horas de trabajo, con backend FastAPI, frontend React + Tailwind y base de datos PostgreSQL.
