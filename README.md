@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📦 Bloque 5: README completo con instrucciones
 
 Aquí tienes el README final para levantar todo el proyecto paso a paso.
@@ -68,3 +69,7 @@ zip -r worktime-tracker.zip project-root/
 
 Si quieres, puedo prepararte también un script de instalación automatizada. 🚀
 
+=======
+# time_tracker
+time checking work tool
+>>>>>>> 4ac7ac5d12cf2ded2c0400c37b07b36793964ec1
